@@ -2,7 +2,7 @@
 
 This Python-based simulation project demonstrates a traffic intersection scenario with dynamic vehicle movement and traffic signal control.
 
-![Traffic Simulation](images/simulation_snapshot.png)
+![Traffic Simulation](images/intersection/intersection.png)
 
 ## Overview
 
